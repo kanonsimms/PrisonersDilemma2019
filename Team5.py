@@ -9,7 +9,7 @@ import random
 
 # current issues with the code == definitions aren't defined
 team_name = 'Null'
-strategy_name = 'So if they collude, then we shall collude. If they betray, we shall also betray. However if they have a repeated history of colluding we shall betray.'
+strategy_name = 'So if they collude, then we shall collude. If they betray, we shall also betray. However if they have a repeated history of colluding we shall betray. However if there is no definitive pattern we shall betray.'
 strategy_description = 'Carefully analyze each decision to win.'
 
 
