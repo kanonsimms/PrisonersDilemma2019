@@ -1,7 +1,7 @@
-team name - ceiling
-kal colerick and kanon simmons
+#team name - ceiling
+#kal colerick and kanon simmons
 team_name = 'ceiling'
-team_strategy =  'If they collude last time, we betray. If they betrayed last time, we collude. Else, collude'
+strategy_name =  'If they collude last time, we betray. If they betrayed last time, we collude. Else, collude'
 strategy_description = 'Opposite for the win.'
 
 def move(my_score, my_hist, their_score, their_hist):
